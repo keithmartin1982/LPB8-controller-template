@@ -1,2 +1,2 @@
-# LPB8-controller-template
+# LPD8-controller-template
 AKAI LPD8 midi controller to anything
